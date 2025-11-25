@@ -312,7 +312,7 @@ const SarojCollegeOfLaw = () => {
                   {/* Apply Now Button */}
                   <div className='flex items-center justify-center mt-4'>
                     <a 
-                      href='https://siu.in8.nopaperforms.com/' 
+                      href='https://seglko.in8.nopaperforms.com/' 
                       target='_blank' 
                       rel='noopener noreferrer' 
                       className='flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-2 rounded-full transition duration-300 shadow-lg hover:shadow-xl text-sm'
